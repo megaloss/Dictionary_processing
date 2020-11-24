@@ -1,4 +1,4 @@
-# Dictionary_porcessing
+# Dictionary_processing
 Dictionary OCR and articles processing
 
 Here I am using pdf2image to covert large PDF file (a scanned dictionary) into separate jpg files and then those files are being "read" using pytesseract OCR.
